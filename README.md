@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 
 <div align="center">
-<img align="center" src="https://raw.githubusercontent.com/thecsmine/thecsmine/main/undraw_programming.png" alt="Programmer" width="400" />
+<img align="center" src="undraw_programming.png" alt="Programmer" width="400" />
 </div>
 
 <h3 align="center">A passionate software engineer student</h3>
