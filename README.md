@@ -17,6 +17,6 @@
 
 <h2 align="left">🔥 Stats</h2>
 
-<a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"></img></a>
+<a><img src="http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"></img></a>
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"></img></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"></img></a>
