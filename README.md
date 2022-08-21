@@ -12,6 +12,4 @@
 
 <h2 align="left">🔥 Stats</h2>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=thecsmine&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=vision-friendly-dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github_dark&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
