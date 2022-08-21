@@ -1,13 +1,7 @@
-<style>
-  img {
-    pointer-events: none; cursor: default;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Damien</h1>
 
 <div align="center">
-<img align="center" src="undraw_programming.png" alt="Programmer" width="400" />
+<picture><img align="center" src="undraw_programming.png" alt="Programmer" width="400" /></picture>
 </div>
 
 <h3 align="center">A passionate software engineer student</h3>
