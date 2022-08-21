@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 
 <div align="center">
-<img src="undraw_programming.png" alt="Programmer" width="400" />
+<a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="undraw_programming.png" alt="Programmer" width="400" /></a>
 <h3>A passionate software engineer student</h3>
 <h4>You can find my portfolio <a target="_blank" rel="noreferrer noopener">here</a></h4>
 </div>
@@ -16,6 +16,6 @@
 
 <h2 align="left">🔥 Stats</h2>
 
-<a href="http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github-dark-blue&hide_border=true" target="_blank" rel="noreferrer noopener"><img src="http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true" target="_blank" rel="noreferrer noopener"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" /></a>
+<a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" /></a>
