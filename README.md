@@ -1,7 +1,13 @@
+<style>
+  img {
+    pointer-events: none; cursor: default;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Damien</h1>
 
 <div align="center">
-<a target="blank"><img align="center" src="undraw_programming.png" alt="Programmer" width="400" /></a>
+<img align="center" src="undraw_programming.png" alt="Programmer" width="400" />
 </div>
 
 <h3 align="center">A passionate software engineer student</h3>
@@ -9,7 +15,7 @@
 
 <h2 align="left">🌐 Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/clauzond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/clauzond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: clauzond" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">🛠 Languages and Tools</h2>
