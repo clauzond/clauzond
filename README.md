@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 
 <div align="center">
-<picture><img align="center" src="undraw_programming.png" alt="Programmer" width="400" /></picture>
+<img src="undraw_programming.png" alt="Programmer" width="400" />
+<h3>A passionate software engineer student</h3>
+<h4>You can find my portfolio <a target="_blank" rel="noreferrer noopener">here</a></h4>
 </div>
-
-<h3 align="center">A passionate software engineer student</h3>
-<h4 align="center">You can find my portfolio <a target="_blank" rel="noreferrer noopener">here</a></h4>
 
 <h2 align="left">🌐 Connect with me</h2>
 <p align="left">
