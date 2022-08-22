@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="undraw_programming.png" alt="Programmer" width="400" /></a>
 <h3>A passionate software engineer student</h3>
-<h4>You can find my portfolio <a target="_blank" rel="noreferrer noopener">here</a></h4>
+<h4>You can find my portfolio <a href="https://thecsmine.github.io/" target="_blank" rel="noreferrer noopener">here</a></h4>
 </div>
 
 <h2 align="left">🌐 Connect with me</h2>
