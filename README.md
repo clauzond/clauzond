@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 
 <div align="center">
+  <h3>A passionate software engineering student</h3>
 <a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="undraw_programming.png" alt="Programmer" width="400" /></a>
-<h3>A passionate software engineering student</h3>
 <h4>You can find my portfolio <a href="https://thecsmine.github.io/" target="_blank" rel="noreferrer noopener">here</a></h4>
 </div>
 
