@@ -2,8 +2,8 @@
 
 <div align="center">
   <h3>A passionate software engineering student</h3>
-<a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="undraw_programming.png" alt="Programmer" width="400" /></a>
-<h4>You can find my portfolio <a href="https://thecsmine.github.io/" target="_blank" rel="noreferrer noopener">here</a></h4>
+<a href="https://github.com/clauzond" target="_blank" rel="noreferrer noopener"><img src="undraw_programming.png" alt="Programmer" width="400" /></a>
+<h4>You can find my portfolio <a href="https://clauzond.github.io/" target="_blank" rel="noreferrer noopener">here</a></h4>
 </div>
 
 <h2 align="left">🌐 Connect with me</h2>
@@ -16,6 +16,6 @@
 
 <h2 align="left">🔥 Stats</h2>
 
-<a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="http://github-readme-streak-stats.herokuapp.com?user=thecsmine&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/clauzond" target="_blank" rel="noreferrer noopener"><img src="http://github-readme-streak-stats.herokuapp.com?user=clauzond&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/thecsmine" target="_blank" rel="noreferrer noopener"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecsmine&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" /></a>
+<a href="https://github.com/clauzond" target="_blank" rel="noreferrer noopener"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauzond&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" /></a>
