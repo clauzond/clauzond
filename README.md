@@ -1,9 +1,8 @@
 <h1 align="center" inert>Hi 👋, I'm Damien</h1>
 
 <div align="center">
-  <h3>A passionate full-stack software engineer</h3>
 <a href="https://github.com/clauzond" target="_blank" rel="noreferrer noopener"><img src="undraw_programming.png" alt="Programmer" width="400" /></a>
-<h4>You can find my portfolio <a href="https://clauzond.github.io/" target="_blank" rel="noreferrer noopener">here</a></h4>
+<div>You can find my portfolio <a href="https://clauzond.github.io/" target="_blank" rel="noreferrer noopener">here</a></div>
 </div>
 
 <h2 align="left">🌐 Connect with me</h2>
